@@ -20,9 +20,10 @@ This section should help you get familiar with BurpSuite.
 - [Burp Suite Introduction](https://github.com/bugcrowd/bugcrowd_university/blob/master/An_introduction_to_Burp_Suite/Bugcrowd%20University%20-%20Burp%20Suite%20Introduction.pdf) by Jason Haddix
 - [Beginners Guide to Burpsuite Payloads (Part 1)](https://www.hackingarticles.in/beginners-guide-burpsuite-payloads-part-1/) by Raj Chandel
 - [Burp Hacks for Bounty Hunters](https://www.youtube.com/watch?v=boHIjDHGmIo) by James Kettle
+- [Portswigger Practice Site](https://portswigger.net/web-security)
 
 ## Tools
 - [Getting Starting With Tmux Isn't That Scary](https://www.youtube.com/watch?v=Z5sEEbwngd0)
--
+
 ---
 back to [Intro Page](/README.md)
