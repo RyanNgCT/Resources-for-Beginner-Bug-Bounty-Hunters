@@ -27,8 +27,7 @@
 - [Google Gruyere](https://google-gruyere.appspot.com/)
 - [DVWA](http://www.dvwa.co.uk)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Metasploitable 3](https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities)
-- [Multidae](https://sourceforge.net/projects/mutillidae/)
+- [Mutillidae](https://sourceforge.net/projects/mutillidae/)
 - [Badstore](https://www.vulnhub.com/entry/badstore-123,41/)
 - [https://application.security/ - SSRF](https://application.security/free-application-security-training/server-side-request-forgery-in-capital-one)
 
@@ -36,6 +35,11 @@
 - [alert 1 to win](https://alf.nu/alert1/)
 - [prompt(1)](http://prompt.ml/0)
 - [XSS Game By Google](https://xss-game.appspot.com/)
+
+#### Free VMs
+- [Metasploitable 3](https://github.com/rapid7/metasploitable3/wiki/Vulnerabilities)
+- [Beebox](https://www.vulnhub.com/entry/bwapp-bee-box-v16,53/)
+- [OWASP BWA](https://sourceforge.net/projects/owaspbwa/)
 
 ### General Hacking
 
