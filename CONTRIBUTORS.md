@@ -3,5 +3,6 @@ Securibee<br>
 NahamSec<br>
 AshF0x<br>
 daeken<br>
+Ryan Ng
 
 and of course everyone else who sends in suggestions for the repo itself <3
