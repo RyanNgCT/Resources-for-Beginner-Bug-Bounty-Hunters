@@ -11,7 +11,7 @@
 6. [Linux basics](#Linux-Basics)
 7. [Web Server Basics](#Web-Server-Basics)
 8. [Computing Fundamentals](#Computing-Fundamentals)
-9. [Hacking Basics](#Hacking-Basics)
+9. [Hacking Basics](#Bug-Bounty-Basics)
 
 ### Stanford CS 253 Web Security
 - [Stanford CS 253 Web Security](https://web.stanford.edu/class/cs253/) - by [@feross](https://twitter.com/feross)
