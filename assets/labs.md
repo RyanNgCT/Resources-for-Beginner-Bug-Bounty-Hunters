@@ -17,6 +17,7 @@
 #### Premium
 - [Pentesterlab](https://pentesterlab.com/referral/olaL4k8btE8wqA) | Good Labs with a broad variety of Topics, some very good Web Application Exercises
 - [BugBountyHunter](https://www.bugbountyhunter.com/) | Learn how to test for security vulnerabilities on web applications
+- [Pentester Academy](https://attackdefense.com/)
 
 #### Misc
 - [0l4bs - Cross-site scripting labs for web application security enthusiasts](https://github.com/tegal1337/0l4bs) - by tegal1337
@@ -46,7 +47,7 @@
 #### Free
 - [VulnHuB](https://www.vulnhub.com/)
 - [W3chhalls](https://w3challs.com/)
-- [PicoCTF][https://picoctf.org/]
+- [PicoCTF](https://picoctf.org/)
 - [Root-Me](https://www.root-me.org/)
 - [OverTheWire](https://overthewire.org/wargames/natas/)
 
