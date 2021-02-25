@@ -41,6 +41,19 @@ Recon is a common terminology used in bug bounties. It’s great if you are alre
 - [What is DNS?](https://code.tutsplus.com/tutorials/an-introduction-to-learning-and-using-dns-records--cms-24704)
 - [Intermediate Security Testing with Kali Linux 2](http://www.penguintutor.com/linux/basic-network-reference)
 - [Network Fundamentals](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8), A 19 part Video Series about Networking well explained for Beginners
+- [Sunny Sun Playlists](https://www.youtube.com/user/sunnylearning/playlists): play at 1.5x thank me later... Watch minimally (in order):
+  - 1 OSI model and related
+  - 2 Topology, cables, & cabling structure
+  - 3 Ethernet Basics
+  - 4 IPv4 Basics
+  - Switching and Routing
+  - Subnetting
+  - Virtualization, VLAN, Trunking, VPN
+  - 9 Networking Security Devices
+  - 10 Basic Cryptography
+  - 11 Advanced Cryptography
+  - 12 Public Key Infrastructure
+  - 7 Wireless/WiFi network
 
 
 ### Programming Basics
@@ -52,6 +65,8 @@ If you prefer an interactive tool to learn about JavaScript, I highly recommend 
 As always, if you prefer an interactive course, feel free to use [CodeCademy](http://ssqt.co/mQfH8zl)!
 https://www.codecademy.com/learn/learn-sql
 http://www.sqlcourse.com/
+
+[FreeCodeCamp](https://www.freecodecamp.org/) can also be used since some modules in Codecademy are paid and require subscription
 
 ### Automation
 You are welcome to skip this section if you think you’ll never need any automation or in depth web application knowledge. However I think learning bash in addition to one the following four languages may help you work smarter rather than harder.
@@ -87,12 +102,16 @@ After creating your own web server, I highly recommend installing a CMS (like Wo
 - [How to use curl](https://flaviocopes.com/http-curl/)
 - [Loops](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-7.html)
 - [xargs](https://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/)
+- [Linux Journey](https://linuxjourney.com/) 
+- [Eli the Computer Guy](https://www.youtube.com/playlist?list=PLJcaPjxegjBV4aJh4hw3p3yL3CxE2sFXL)
 
 ### Computing Fundamentals
 - [Hopper's Roppers Computing Fundamentals](https://www.hoppersroppers.org/course.html)
 	- This free course teaches the absolute basics of Linux, hardware, networking, operating systems, and scripting. Designed to get  a complete beginner over the first big learning hurdles and so they can move on to anything else and succeed.
 - [Exeter Q-Step Resources](https://exeter-qstep-resources.github.io/)
    - Here, you will find a range of teaching materials that have been developed by members of the Q-Step Centre. If you have any questions, please contact l.brace@exeter.ac.uk or qstep@exeter.ac.uk. Details of Q-Step workshops and events can be found at https://socialsciences.exeter.ac.uk/q-step/events.
+- [CS50](https://cs50.harvard.edu/)
+   - An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development.
 
 ### Bug Bounty Basics
 - [Bug bounty reports that stand out, how to write one?](https://thehackerish.com/bug-bounty-reports-that-stand-out-how-to-write-one/)
